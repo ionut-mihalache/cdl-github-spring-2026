@@ -1,0 +1,5 @@
+# password files
+# object files
+# temporary files
+.vscode/
+.env
